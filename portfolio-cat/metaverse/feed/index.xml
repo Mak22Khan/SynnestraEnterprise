@@ -9,8 +9,8 @@
 
 <channel>
 	<title>MetaVerse &#8211; Synnestra</title>
-	<atom:link href="httpMak22Khan.github.io/SynnestraEnterprise//portfolio-cat/metaverse/feed/" rel="self" type="application/rss+xml" />
-	<link>httpMak22Khan.github.io/SynnestraEnterprise//</link>
+	<atom:link href="https://mak22khan.github.io/SynnestraEnterprise//portfolio-cat/metaverse/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mak22khan.github.io/SynnestraEnterprise//</link>
 	<description></description>
 	<lastBuildDate>Fri, 14 Jul 2023 14:44:37 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
-	<url>httpMak22Khan.github.io/SynnestraEnterprise//wp-content/uploads/2023/07/cropped-3-3-32x32.png</url>
+	<url>https://mak22khan.github.io/SynnestraEnterprise//wp-content/uploads/2023/07/cropped-3-3-32x32.png</url>
 	<title>MetaVerse &#8211; Synnestra</title>
-	<link>httpMak22Khan.github.io/SynnestraEnterprise//</link>
+	<link>https://mak22khan.github.io/SynnestraEnterprise//</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>VirtuVerse</title>
-		<link>httpMak22Khan.github.io/SynnestraEnterprise//portfolio/virtuverse/</link>
+		<link>https://mak22khan.github.io/SynnestraEnterprise//portfolio/virtuverse/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 14 Jul 2023 14:39:59 +0000</pubDate>
-				<guid isPermaLink="false">httpMak22Khan.github.io/SynnestraEnterprise//?post_type=portfolio#038;p=700</guid>
+				<guid isPermaLink="false">https://mak22khan.github.io/SynnestraEnterprise//?post_type=portfolio#038;p=700</guid>
 
 					<description><![CDATA[VirtuVerse is an ambitious metaverse project that aims to create a dynamic virtual world where users can explore, interact, and collaborate in a rich and immersive environment. It offers a seamless blend of virtual reality, augmented reality, and mixed reality, blurring the lines between the digital and physical realms. In VirtuVerse, users have the freedom [&#8230;]]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="700" class="elementor elementor-700">
@@ -75,7 +75,7 @@
 								<div class="elementor-element elementor-element-47d3abf elementor-widget elementor-widget-image" data-id="47d3abf" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.14.0 - 26-06-2023 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="900" height="900" src="httpMak22Khan.github.io/SynnestraEnterprise//wp-content/uploads/2023/07/descomposition-person-wearing-vr-glasses-1024x1024.jpg" class="attachment-large size-large wp-image-703" alt="" loading="lazy" srcset="httpMak22Khan.github.io/SynnestraEnterprise//wp-content/uploads/2023/07/descomposition-person-wearing-vr-glasses-1024x1024.jpg 1024w, httpMak22Khan.github.io/SynnestraEnterprise//wp-content/uploads/2023/07/descomposition-person-wearing-vr-glasses-300x300.jpg 300w, httpMak22Khan.github.io/SynnestraEnterprise//wp-content/uploads/2023/07/descomposition-person-wearing-vr-glasses-150x150.jpg 150w, httpMak22Khan.github.io/SynnestraEnterprise//wp-content/uploads/2023/07/descomposition-person-wearing-vr-glasses-768x768.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />															</div>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="900" height="900" src="https://mak22khan.github.io/SynnestraEnterprise//wp-content/uploads/2023/07/descomposition-person-wearing-vr-glasses-1024x1024.jpg" class="attachment-large size-large wp-image-703" alt="" loading="lazy" srcset="https://mak22khan.github.io/SynnestraEnterprise//wp-content/uploads/2023/07/descomposition-person-wearing-vr-glasses-1024x1024.jpg 1024w, https://mak22khan.github.io/SynnestraEnterprise//wp-content/uploads/2023/07/descomposition-person-wearing-vr-glasses-300x300.jpg 300w, https://mak22khan.github.io/SynnestraEnterprise//wp-content/uploads/2023/07/descomposition-person-wearing-vr-glasses-150x150.jpg 150w, https://mak22khan.github.io/SynnestraEnterprise//wp-content/uploads/2023/07/descomposition-person-wearing-vr-glasses-768x768.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />															</div>
 				</div>
 					</div>
 		</div>

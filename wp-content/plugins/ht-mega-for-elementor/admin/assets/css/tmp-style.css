@@ -738,7 +738,7 @@ body {
   display: block;
 }
 .htwptspinner::before {
-  background: rgba(0, 0, 0, 0) url("httpMak22Khan.github.io/SynnestraEnterprise//wp-content/plugins/ht-mega-for-elementor/admin/assets/images/ajax-loader.gif") no-repeat scroll center center / 100px 100px;
+  background: rgba(0, 0, 0, 0) url("https://mak22khan.github.io/SynnestraEnterprise//wp-content/plugins/ht-mega-for-elementor/admin/assets/images/ajax-loader.gif") no-repeat scroll center center / 100px 100px;
   content: "";
   height: 100%;
   left: 0;

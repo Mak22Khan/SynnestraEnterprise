@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="httpMak22Khan.github.io/SynnestraEnterprise//hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>httpMak22Khan.github.io/SynnestraEnterprise//hello-world/</link>
+	<atom:link href="https://mak22khan.github.io/SynnestraEnterprise//hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mak22khan.github.io/SynnestraEnterprise//hello-world/</link>
 	<description></description>
 	<lastBuildDate>Wed, 12 Jul 2023 08:25:18 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>httpMak22Khan.github.io/SynnestraEnterprise//hello-world/#comment-1</link>
+		<link>https://mak22khan.github.io/SynnestraEnterprise//hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Wed, 12 Jul 2023 08:25:18 +0000</pubDate>
-		<guid isPermaLink="false">httpMak22Khan.github.io/SynnestraEnterprise//?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://mak22khan.github.io/SynnestraEnterprise//?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.

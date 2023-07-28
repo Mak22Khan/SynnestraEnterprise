@@ -3,25 +3,25 @@
    ========================================================================== */
 @font-face {
   font-family: 'Roboto';
-  src: url("httpMak22Khan.github.io/SynnestraEnterprise//wp-content/plugins/qi-addons-for-elementor/inc/admin/inc/admin-pages/assets/fonts/Roboto-Regular.ttf") format("truetype");
+  src: url("https://mak22khan.github.io/SynnestraEnterprise//wp-content/plugins/qi-addons-for-elementor/inc/admin/inc/admin-pages/assets/fonts/Roboto-Regular.ttf") format("truetype");
   font-weight: 400;
 }
 
 @font-face {
   font-family: 'Heebo';
-  src: url("httpMak22Khan.github.io/SynnestraEnterprise//wp-content/plugins/qi-addons-for-elementor/inc/admin/inc/admin-pages/assets/fonts/Heebo-Light.ttf") format("truetype");
+  src: url("https://mak22khan.github.io/SynnestraEnterprise//wp-content/plugins/qi-addons-for-elementor/inc/admin/inc/admin-pages/assets/fonts/Heebo-Light.ttf") format("truetype");
   font-weight: 300;
 }
 
 @font-face {
   font-family: 'Heebo';
-  src: url("httpMak22Khan.github.io/SynnestraEnterprise//wp-content/plugins/qi-addons-for-elementor/inc/admin/inc/admin-pages/assets/fonts/Heebo-Regular.ttf") format("truetype");
+  src: url("https://mak22khan.github.io/SynnestraEnterprise//wp-content/plugins/qi-addons-for-elementor/inc/admin/inc/admin-pages/assets/fonts/Heebo-Regular.ttf") format("truetype");
   font-weight: 400;
 }
 
 @font-face {
   font-family: 'Heebo';
-  src: url("httpMak22Khan.github.io/SynnestraEnterprise//wp-content/plugins/qi-addons-for-elementor/inc/admin/inc/admin-pages/assets/fonts/Heebo-Medium.ttf") format("truetype");
+  src: url("https://mak22khan.github.io/SynnestraEnterprise//wp-content/plugins/qi-addons-for-elementor/inc/admin/inc/admin-pages/assets/fonts/Heebo-Medium.ttf") format("truetype");
   font-weight: 500;
 }
 
@@ -2591,7 +2591,7 @@
 
 #qodef-page.qodef-dashboard-admin .qodef-section-box.qodef-section-qi-addons-premium {
   padding: 68px 15px 68px 35px;
-  background-image: url(httpMak22Khan.github.io/SynnestraEnterprise//wp-content/plugins/qi-addons-for-elementor/inc/admin/inc/admin-pages/assets/img/bg-qi-addons-premium.jpg);
+  background-image: url(https://mak22khan.github.io/SynnestraEnterprise//wp-content/plugins/qi-addons-for-elementor/inc/admin/inc/admin-pages/assets/img/bg-qi-addons-premium.jpg);
   background-size: cover;
 }
 
@@ -2836,7 +2836,7 @@
 #qodef-page.qodef-dashboard-admin .qodef-admin-sidebar-box.qodef-help-center-box {
   padding-top: 44px;
   padding-bottom: 41px;
-  background-image: url(httpMak22Khan.github.io/SynnestraEnterprise//wp-content/plugins/qi-addons-for-elementor/inc/admin/inc/admin-pages/assets/img/help-center-icon.png);
+  background-image: url(https://mak22khan.github.io/SynnestraEnterprise//wp-content/plugins/qi-addons-for-elementor/inc/admin/inc/admin-pages/assets/img/help-center-icon.png);
   background-position: top 7px right 7px;
   background-repeat: no-repeat;
 }
@@ -2844,7 +2844,7 @@
 #qodef-page.qodef-dashboard-admin .qodef-admin-sidebar-box.qodef-rate-box {
   padding-top: 44px;
   padding-bottom: 41px;
-  background-image: url(httpMak22Khan.github.io/SynnestraEnterprise//wp-content/plugins/qi-addons-for-elementor/inc/admin/inc/admin-pages/assets/img/rate-icon.png);
+  background-image: url(https://mak22khan.github.io/SynnestraEnterprise//wp-content/plugins/qi-addons-for-elementor/inc/admin/inc/admin-pages/assets/img/rate-icon.png);
   background-position: top 7px right 7px;
   background-repeat: no-repeat;
 }

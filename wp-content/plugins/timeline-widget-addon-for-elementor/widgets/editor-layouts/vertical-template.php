@@ -29,7 +29,7 @@
                     <div class="twae-content">
                         <div view.getrenderattributestring title_key>{{{ item.twae_story_title}}}</div>
                         
-                            <div class="twae-media {{{timeline_image.size}}}"><img src="httpMak22Khan.github.io/SynnestraEnterprise//wp-content/plugins/timeline-widget-addon-for-elementor/widgets/editor-layouts/{{{ image_url }}}"></div>
+                            <div class="twae-media {{{timeline_image.size}}}"><img src="https://mak22khan.github.io/SynnestraEnterprise//wp-content/plugins/timeline-widget-addon-for-elementor/widgets/editor-layouts/{{{ image_url }}}"></div>
                         
                         <div view.getrenderattributestring description_key>{{{ item.twae_description }}}</div>
                     </div>

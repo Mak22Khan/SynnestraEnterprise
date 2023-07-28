@@ -3,7 +3,7 @@
         <div class="elementor-template-library-template-preview">
             <i class="fa fa-search-plus"></i>
         </div>
-        <img src="httpMak22Khan.github.io/SynnestraEnterprise//wp-content/plugins/master-addons/inc/templates/editor/{{ thumbnail }}" alt="{{ title }}">
+        <img src="https://mak22khan.github.io/SynnestraEnterprise//wp-content/plugins/master-addons/inc/templates/editor/{{ thumbnail }}" alt="{{ title }}">
         <div class="elementor-template-library-template-name">{{{ title }}}</div>
     </div>
 </div>

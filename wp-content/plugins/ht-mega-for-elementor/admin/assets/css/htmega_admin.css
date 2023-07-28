@@ -264,7 +264,7 @@ ul#menu-to-edit li.menu-item-depth-0 .field-columntitle{
   color: #ffffff;
   padding: 30px 50px;
   box-shadow: 0 0 28px rgba(0,0,0,0.1);
-  background-image: url(httpMak22Khan.github.io/SynnestraEnterprise//wp-content/plugins/ht-mega-for-elementor/admin/assets/images/side-add-banner.jpg);
+  background-image: url(https://mak22khan.github.io/SynnestraEnterprise//wp-content/plugins/ht-mega-for-elementor/admin/assets/images/side-add-banner.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
@@ -372,7 +372,7 @@ ul.htoption-feature li {
 }
 ul.htoption-feature li::before {
   position: absolute;
-  content: url(httpMak22Khan.github.io/SynnestraEnterprise//wp-content/plugins/ht-mega-for-elementor/admin/assets/images/icon/check.png);
+  content: url(https://mak22khan.github.io/SynnestraEnterprise//wp-content/plugins/ht-mega-for-elementor/admin/assets/images/icon/check.png);
   width: 15px;
   height: 20px;
   top: 4px;

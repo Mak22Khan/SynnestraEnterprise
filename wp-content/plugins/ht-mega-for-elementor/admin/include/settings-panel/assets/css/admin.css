@@ -9,9 +9,9 @@
 @font-face {
     font-family: 'htmega';
     src:
-      url('httpMak22Khan.github.io/SynnestraEnterprise//wp-content/plugins/ht-mega-for-elementor/admin/include/settings-panel/assets/fonts/htmega.ttf?aggao2') format('truetype'),
-      url('httpMak22Khan.github.io/SynnestraEnterprise//wp-content/plugins/ht-mega-for-elementor/admin/include/settings-panel/assets/fonts/htmega.woff?aggao2') format('woff'),
-      url('httpMak22Khan.github.io/SynnestraEnterprise//wp-content/plugins/ht-mega-for-elementor/admin/include/settings-panel/assets/fonts/htmega.svg?aggao2#htmega') format('svg');
+      url('https://mak22khan.github.io/SynnestraEnterprise//wp-content/plugins/ht-mega-for-elementor/admin/include/settings-panel/assets/fonts/htmega.ttf?aggao2') format('truetype'),
+      url('https://mak22khan.github.io/SynnestraEnterprise//wp-content/plugins/ht-mega-for-elementor/admin/include/settings-panel/assets/fonts/htmega.woff?aggao2') format('woff'),
+      url('https://mak22khan.github.io/SynnestraEnterprise//wp-content/plugins/ht-mega-for-elementor/admin/include/settings-panel/assets/fonts/htmega.svg?aggao2#htmega') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: block;
@@ -403,7 +403,7 @@
     border: 1px solid #DCDCDC;
     border-radius: 3px;
     background-color: #FFFFFF;
-    background-image: url(httpMak22Khan.github.io/SynnestraEnterprise//wp-content/plugins/ht-mega-for-elementor/admin/include/settings-panel/assets/images/icons/caret-down.png);
+    background-image: url(https://mak22khan.github.io/SynnestraEnterprise//wp-content/plugins/ht-mega-for-elementor/admin/include/settings-panel/assets/images/icons/caret-down.png);
     background-size: auto;
     background-repeat: no-repeat;
     background-position: right 15px center;
@@ -447,11 +447,11 @@
 }
 .htmega-admin-number-btn.increase {
     top: 7px;
-    background-image: url(httpMak22Khan.github.io/SynnestraEnterprise//wp-content/plugins/ht-mega-for-elementor/admin/include/settings-panel/assets/images/icons/caret-up.png);
+    background-image: url(https://mak22khan.github.io/SynnestraEnterprise//wp-content/plugins/ht-mega-for-elementor/admin/include/settings-panel/assets/images/icons/caret-up.png);
 }
 .htmega-admin-number-btn.decrease {
     bottom: 7px;
-    background-image: url(httpMak22Khan.github.io/SynnestraEnterprise//wp-content/plugins/ht-mega-for-elementor/admin/include/settings-panel/assets/images/icons/caret-down.png);
+    background-image: url(https://mak22khan.github.io/SynnestraEnterprise//wp-content/plugins/ht-mega-for-elementor/admin/include/settings-panel/assets/images/icons/caret-down.png);
 }
 
 /* switcher Field */
@@ -929,7 +929,7 @@ span.htmega-subscribe-status {
     margin-top: 65px;
     padding: 70px 70px;
     border-radius: 10px;
-    background-image: url("httpMak22Khan.github.io/SynnestraEnterprise//wp-content/plugins/ht-mega-for-elementor/admin/include/settings-panel/assets/images/subscribe-bg.png");
+    background-image: url("https://mak22khan.github.io/SynnestraEnterprise//wp-content/plugins/ht-mega-for-elementor/admin/include/settings-panel/assets/images/subscribe-bg.png");
     align-items: center;
   }
   @media only screen and (min-width: 1200px) and (max-width: 1549px), only screen and (min-width: 768px) and (max-width: 991px) {
@@ -981,7 +981,7 @@ span.htmega-subscribe-status {
   position: absolute;
   left: 0;
   bottom: 0;
-  content: url("httpMak22Khan.github.io/SynnestraEnterprise//wp-content/plugins/ht-mega-for-elementor/admin/include/settings-panel/assets/images/subscribe-title-shap.png");
+  content: url("https://mak22khan.github.io/SynnestraEnterprise//wp-content/plugins/ht-mega-for-elementor/admin/include/settings-panel/assets/images/subscribe-title-shap.png");
   z-index: 1;
 }
   @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (max-width: 767px) {
